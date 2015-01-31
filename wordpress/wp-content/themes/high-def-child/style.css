@@ -1,0 +1,37 @@
+/*
+Theme Name: HighDef
+Theme URI: http://graphpaperpress.com
+Description: A child theme for Modularity
+Author: Thad Allender
+Author URI: http://thadallender.com
+Template: modularity
+Version: 0.1
+License:  All Rights Reserved
+*/
+	
+@import url("../modularity/style.css");
+
+
+body {background:url(images/YBLbkgPage.jpg) no-repeat fixed center top;}
+.container-inner {padding:2em 0 1em}
+/* #top {margin:0 auto;padding:0;height:auto; background: url(images/double-border.png) repeat-x bottom; */
+#top {margin:0 auto;padding:0;height:auto; clear:both;float:none;border:none;}
+#masthead h2 a { color: #f2490c; text-decoration: none; }
+#masthead span.description {font-size: 12px; color:#ffffff}
+/* Navigation at rest */
+#nav { float: right; margin: 23px 0 0 0; padding:8px 0 6px 10px;background:transparent}
+#nav ul, #nav ul li { margin: 0; padding: 0; }
+#nav ul li { font-size: 14px; font-weight: normal; text-transform: lowercase; list-style: none; float: left; margin-right: 15px; position: relative;color:#f29a2e}
+#nav ul li a { color: #ffffff; text-decoration: none;}
+#nav ul li a:hover {color:#fff}
+
+/* Category Sections */
+#category-stack{margin:0 0 2em}
+.byline {font-size:.9em;margin:0;color:#ffffff}
+.byline a {color:#ffffff}
+.more {margin:0 0 1em;}
+.more ul{list-style:none;margin:0;padding:0;}
+.more ul li a{color:#fce872;height:1%;background:url(images/li.png) no-repeat  0;line-height:1.2em;border-bottom:1px solid #ccc;display:block;padding:6px 0 6px 8px;}
+.more ul li a:hover{color:#515151;background-position:1px 0.8em;background: #E5ECF9 url(images/li-white.png) no-repeat 3px 10px;}
+.more ul li a span{color:#696455;}
+.more ul li.active a{cursor:default;color:white;}

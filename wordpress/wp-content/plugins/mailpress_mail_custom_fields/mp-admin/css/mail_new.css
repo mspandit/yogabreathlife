@@ -1,0 +1,21 @@
+#side-sortables #mp_mailcustom #postcustomstuff td.left input, #side-sortables #pagecustomdiv #postcustomstuff td.left input {
+margin:3px 3px 0;
+}
+#side-sortables #mp_mailcustom #postcustomstuff #the-list textarea {
+height:85px;
+margin:3px;
+}
+#side-sortables #mp_mailcustom #postcustomstuff .submit, #side-sortables #pagecustomdiv #postcustomstuff .submit {
+padding:0 5px;
+}
+#mp_mailcustom #postcustomstuff .submit, #pagecustomdiv #postcustomstuff .submit {
+border:0 none;
+float:none;
+padding:5px 8px;
+}
+#postcustomstuff .updatemailmeta, #postcustomstuff .deletemailmeta {
+margin:auto;
+}
+#postcustomstuff #newmeta .submit {
+padding:0 8px;
+}

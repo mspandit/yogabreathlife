@@ -1,0 +1,3 @@
+[12-May-2009 17:18:59] PHP Fatal error:  Out of memory (allocated 6553600) (tried to allocate 311296 bytes) in /home/yogabre/public_html/wp-includes/canonical.php on line 294
+[12-May-2009 19:29:45] PHP Fatal error:  Out of memory (allocated 2359296) (tried to allocate 311296 bytes) in /home/yogabre/public_html/wp-includes/query.php on line 1830
+[04-Jun-2009 10:21:53] PHP Fatal error:  Out of memory (allocated 262144) (tried to allocate 311296 bytes) in /home/yogabre/public_html/wp-settings.php on line 511
